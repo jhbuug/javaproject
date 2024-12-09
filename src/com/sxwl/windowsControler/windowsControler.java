@@ -7,6 +7,7 @@ import java.awt.event.MouseMotionListener;
 
 import javax.swing.JFrame;
 
+@SuppressWarnings("unused")
 public class windowsControler extends MouseAdapter implements MouseMotionListener{
     private Point point;
     private JFrame frame;
